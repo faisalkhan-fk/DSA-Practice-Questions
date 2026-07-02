@@ -16,11 +16,11 @@ public class Main {
         if (sp>cp) {
             System.out.println("Profit");
             int profit=sp-cp;
-            System.out.println("Loss is: "+profit);
+            System.out.println("Profit is: "+profit);
         } else if(cp>sp){
             int loss=cp-cp;
             System.out.println("Loss");
-            System.out.println("Profit is: "+loss);
+            System.out.println("Loss is: "+loss);
         }else if(cp==sp){
             System.out.println("No profit No loss");
         }
