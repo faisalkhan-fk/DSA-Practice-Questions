@@ -1,4 +1,4 @@
-//Given an Array, print negative elements only
+//Give an Array, print negative elements only
 import java.util.*;
 public class Main{
     public static void main(String[] args){
