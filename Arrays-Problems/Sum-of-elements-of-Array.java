@@ -1,4 +1,4 @@
-// Print sum of elements of the array.
+// Print sum of elements of the Array.
 import java.util.*;
 public class Main{
     public static void main(String[] args){
