@@ -20,7 +20,7 @@ public class Main{
                 break;
             }
         }
-       if(flag==true){
+       if(flag){    //yaha pe (flag==true;) bhi likh sakte the
            System.out.println("Target exists in Array");
        }else{
            System.out.println("Target does not exists in Array");
