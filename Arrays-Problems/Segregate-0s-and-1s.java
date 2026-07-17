@@ -1,4 +1,4 @@
-//Write a program Segregate 0s and 1s
+//Write a program to Segregate 0s and 1s
 public class Main{
     public static void main(String[] args){
         int[] arr={1,1,0,1,0,0,1,0,1};
