@@ -1,4 +1,4 @@
-//Write a program to find Missing in Array.
+//Write a program to find Missing Number in Array.
 public class Main{
     public static void main(String[] args){
         int[] arr={2,0,1,3,4,5,7,8};
