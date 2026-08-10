@@ -1,4 +1,4 @@
-//Print the pattern W
+//Print the pattern Alphabate W
 public class Main{
     public static void main(String[] arg){
         int n=5;
