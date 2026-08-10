@@ -1,4 +1,4 @@
-//Printing the Pattern M
+//Printing the Pattern Alphabate M
 public class Main{
     public static void main(String[] arg){
         int n=5;
