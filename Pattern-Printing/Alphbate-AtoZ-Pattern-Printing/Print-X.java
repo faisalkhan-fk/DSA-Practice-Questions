@@ -1,4 +1,4 @@
-//Print Pattern X
+//Print Pattern Alphabate X
 import java.util.*;
 public class Main{
     public static void main(String[]args){
