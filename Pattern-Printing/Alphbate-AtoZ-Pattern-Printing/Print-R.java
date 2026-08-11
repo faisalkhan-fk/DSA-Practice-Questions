@@ -1,5 +1,4 @@
 //Print the pattern Alphabate R
-
 public class Main{
     public static void main(String[] arg){
         int n=6;
