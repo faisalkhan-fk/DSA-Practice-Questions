@@ -1,5 +1,4 @@
 //Print the pattern Alphabate S
-//Print pattern diagonal
 public class Main{
     public static void main(String[] arg){
         int n=5;
