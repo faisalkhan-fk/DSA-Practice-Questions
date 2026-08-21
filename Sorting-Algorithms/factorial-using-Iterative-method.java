@@ -1,4 +1,4 @@
-//factorial using iterative method
+//factorial using iterative method to find operation count
 import java.util.*;
 
 public class Main {
