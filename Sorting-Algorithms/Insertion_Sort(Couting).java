@@ -1,4 +1,4 @@
-//Selection Sort Code and find out total count
+//Insertion Sort Code and find out total count
 
 import java.util.*;
 
